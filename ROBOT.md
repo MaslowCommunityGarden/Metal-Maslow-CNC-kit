@@ -1,5 +1,6 @@
 {
 "ModerationLevel": "customManaged",
 "Facilitator": "metalmaslow",
-"Category": "market"
+"Category": "market",
+"FullKit": "True"
 }
